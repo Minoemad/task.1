@@ -1,0 +1,190 @@
+.home_section{
+    background-image: url(image/bakaryimg1.jpg); 
+    background-size: 100%;
+    width: 100%;
+    height: 550px;
+    overflow:auto;
+    text-align: center;
+    margin: auto;
+    font-size:x-large;
+    padding-bottom: 15px;
+}
+.nav-home{
+    /* background-color: tomato; */
+    width: 90%;
+
+}
+.list{
+    float: right;
+    margin-right: 50px;
+    margin-top: 10px;
+    color: white;
+    
+}
+
+    .list li{
+        display: inline;
+        padding: 5px;
+}
+.logo{
+   float: left;
+   width: 200px;
+   margin-top: 15px;
+   margin-left: 30px;
+}
+.logo img{
+    width: 100%;
+}
+
+.clr{
+    clear: both;
+}
+.second_section{
+    margin-top: 150px;
+    color: white;
+    font-style: oblique;
+}
+.home_section button{
+    padding: 10px;
+    color:white;
+    border-radius: 5px;
+}
+.btn2{
+    background-color: transparent;
+    border: solid 2px transparent;
+}
+.btn1{
+    background-color:peru;
+    border: solid 2px white;
+    
+}
+.margin-top{
+    margin-top: 20px;
+}
+.third_section{
+    float: left;
+    width: 50%;
+    height: 350px;
+    margin-left: 30px;
+    
+}
+.third_section img{
+    width: 100%;
+    height: 100%;
+    
+}
+.third_section2{
+    width: 45%;
+    float:right;
+    margin-top: 30px;
+}
+.ulist{
+    margin-top: 30px;
+    list-style-type: disc;
+    font-weight: 400;
+    color: #686868;
+    font-family: "Alegreya Sans";
+    font-size: 17px;
+}
+li{
+   list-style-type: none; 
+   padding: 5px;
+}
+.doubleDiv{
+    background-color: gainsboro;
+    margin-left: 30px;
+    padding: 50px;
+}
+.five_section{
+    width:40%;
+    padding: 30px;
+    color:black;
+    float: left;
+
+}
+.five_section2{
+    float: right;
+    width: 50%;
+}
+.five_section2 img{
+    width: 100%;
+}
+.paking{
+    text-align:center;
+    padding: 25px;
+    font-size: larger;
+    font-style: inherit;
+
+}
+.paking1{
+    float:left;
+    width: 30%;
+    text-align: center;
+    padding: 15px;
+    color: #686868;
+    font-style: oblique;
+
+}
+.paking1 img{
+    width: 90%;
+}
+.p2{
+    width: 100%;
+}
+.cinfo{
+    width: 45%;
+    float: left;
+    padding: 30px;
+    
+}
+.underWork{
+    width: 45%;
+    border: #000 solid 5px;
+    font-size: xx-large;
+    float: right;
+    margin-top: 75px;
+    text-align: center;
+}
+.pp3{
+    width: 100%;
+    margin-top: 50px;
+    background-color: #686868;
+    color: #000;
+
+}
+.child{
+    float: left;
+    width: 23%;
+    padding: 10px;
+
+}
+.child h2{
+    margin-left: 50px;
+}
+.BGC{
+    background-image:url(image/contact-details-map.png);
+    background-size:100% 100%;
+    float: left;
+    width: 23%;
+    padding: 10px;
+    background-repeat: no-repeat;
+}
+a{
+    color: #000;
+}
+.footer{
+    background-color: darkgray;
+    color:bisque;
+    text-align: center;
+     padding-top: 20px;
+     padding-bottom: 30px;
+}
+.dinline{
+    display: inline;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+.dinline img{
+    width:100%;
+}
